@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the test file for our git hub class 
+=======
+This is test file 
+>>>>>>> 868cf4420906ebbf00e482f735cb67fe60066c90
