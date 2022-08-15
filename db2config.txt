@@ -1,1 +1,3 @@
-this is config fie
+this is config file
+
+Main configration file for the application
